@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="categories">
+            <item>1;Гэр бүл;Family;cat_family.png</item>
+            <item>2;Хэрэгсэл;Tools;cat_school.png</item>
+            <item>3;Хоол хүнс;Food;cat_food.png</item>
+            <item>4;Хэмжээс;Size;cat_family.png</item>
+            <item>5;Үйл хөдлөл;Activity;cat_family.png</item>
+            <item>6;Тоо;Numbers;cat_family.png</item>
+            <item>7;Сэтгэл хөдлөл;Emotions;cat_family.png</item>
+            <item>8;Асуулт;Questions;cat_family.png</item>
+        </string-array>
+    <string-array name="words">
+
+        <item>гэр бүл;family;100.png;100.gif;1</item>
+        <item>аав;father;101.png;101.gif;1</item>
+        <item>ээж;mother;102.png;102.gif;1</item>
+        <item>эмээ;grand mother;103.png;103.gif;1</item>
+        <item>өвөө;grand father;104.png;104.gif;1</item>
+        <item>ах;brother;105.png;105.gif;1</item>
+        <item>эгч;sister;106.png;106.gif;1</item>
+        <item>дүү;younger sibling;107.png;107.gif;1</item>
+        <item>хүү;boy;108.png;108.gif;1</item>
+        <item>охин;girl;109.png;109.gif;1</item>
+        <item>хүүхэд;kid;110.png;110.gif;1</item>
+        <item>хүүхдүүд;children;111.png;111.gif;1</item>
+        <item>хүн;person;112.png;112.gif;1</item>
+        <item>эрэгтэй;man;113.png;113.gif;1</item>
+        <item>эмэгтэй;women;114.png;114.gif;1</item>
+        <item>ихэр;twins;115.png;115.gif;1</item>
+        <item>эрэгтэй дүү;younger brother;115.png;115.gif;1</item>
+        <item>эмэгтэй дүү;younger sister;116.png;116.gif;1</item>
+        <item>аяга;cup;150.png;150.gif;2</item>
+        <item>таваг;plate;151.png;151.gif;2</item>
+        <item>халбага;spoon;152.png;152.gif;2</item>
+        <item>сэрээ;fork;153.png;153.gif;2</item>
+        <item>савх;chopstick;154.png;154.gif;2</item>
+        <item>данх;teapot;155.png;155.gif;2</item>
+        <item>сав;pot;156.png;156.gif;2</item>
+        <item>таг;lid;157.png;157.gif;2</item>
+        <item>сандал;chair;165.png;165.gif;2</item>
+        <item>ширээ;table;166.png;166.gif;2</item>
+        <item>шүүгээ;drawer;167.png;167.gif;2</item>
+        <item>хөргөгч;refrigerator;175.png;175.gif;2</item>
+        <item>шүүр;broom;176.png;176.gif;2</item>
+        <item>ногоо;vegetables;200.png;200.gif;3</item>
+        <item>лууван;carrot;201.png;201.gif;3</item>
+        <item>байцаа;cabbage;202.png;202.gif;3</item>
+        <item>сармис;garlic;203.png;203.gif;3</item>
+        <item>сонгино;onion;204.png;204.gif;3</item>
+        <item>төмс;potato;205.png;205.gif;3</item>
+        <item>улаан лооль;tomato;206.png;206.gif;3</item>
+        <item>жимс;fruits;230.png;230.gif;3</item>
+        <item>гадил;banana;231.png;231.gif;3</item>
+        <item>киви;kiwi;232.png;232.gif;3</item>
+        <item>лийр;pear;233.png;233.gif;3</item>
+        <item>будаа;rice;250.png;250.gif;3</item>
+        <item>гоймон;noodle;251.png;251.gif;3</item>
+        <item>мах;meat;252.png;252.gif;3</item>
+        <item>ус;water;253.png;253.gif;3</item>
+        <item>өндөг;egg;254.png;254.gif;3</item>
+        <item>сүү;milk;255.png;255.gif;3</item>
+        <item>тараг;yogurt;256.png;256.gif;3</item>
+        <item>талх;bread;257.png;257.gif;3</item>
+        <item>хийм;ham;258.png;258.gif;3</item>
+        <item>бууз;buuz;259.png;259.gif;3</item>
+        <item>хуушуур;huushuur;260.png;260.gif;3</item>
+        <item>гал тогоо;kitchen;298.png;298.gif;3</item>
+        <item>хоол;meal;299.png;299.gif;3</item>
+
+        <item>халуун;hot;300.png;300.gif;4</item>
+        <item>хүйтэн;cold;301.png;301.gif;4</item>
+
+        <item>өгөх;give;801.png;801.gif;5</item>
+        <item>хэрчих;cut;802.png;802.gif;5</item>
+        <item>идэх;eat;803.png;803.gif;5</item>
+        <item>суух;sit;804.png;804.gif;5</item>
+        <item>уух;drink;805.png;805.gif;5</item>
+        <item>угаах;wash;806.png;806.gif;5</item>
+
+        <item>нэг;one;old/61.png;old/61.gif;6</item>
+        <item>хоёр;two;old/62.png;old/61.gif;6</item>
+        <item>гурав;three;old/63.png;old/61.gif;6</item>
+
+        <item>ууртай;angry;old/70.jpg;old/70.gif;7</item>
+        <item>гунигтай;sad;old/71.jpg;old/70.gif;7</item>
+        <item>жаргалтай;happy;old/72.jpg;old/70.gif;7</item>
+
+        <item>хэн?;who?;604.png;604.gif;8</item>
+        <item>хэзээ?;when?;605.png;605.gif;8</item>
+        <item>яагаад?;why?;607.png;607.gif;8</item>
+        <item>юу?;what?;608.png;608.gif;8</item>
+
+        <!--
+        <item>ах;brother;10.jpg;1</item>
+        <item>аав;father;11.jpg;1</item>
+        <item>хүүхэд;baby;12.jpg;1</item>
+        <item>эмээ;grand mother;13.jpg;1</item>
+        <item>өвөө;grand father;14.jpg;1</item>
+        <item>ээж;mother;15.jpg;1</item>
+        <item>эгч;sister;16.jpg;1</item>
+        <item>алим;apple;20.png;2</item>
+        <item>гадил;banana;21.png;2</item>
+        <item>лууван;carrot;22.png;2</item>
+        <item>усан үзэм;grapes;23.png;2</item>
+        <item>жүрж;orange;24.png;2</item>
+        <item>лийр;pear;25.png;2</item>
+        <item>төмс;potato;26.png;2</item>
+        <item>мах;meat;27.png;2</item>
+        <item>цэнхэр;blue;30.png;3</item>
+        <item>бор;brown;31.png;3</item>
+        <item>саарал;gray;32.png;3</item>
+        <item>ногоон;green;33.png;3</item>
+        <item>улбар шар;orange;34.png;3</item>
+        <item>ягаан;pink;35.png;3</item>
+        <item>үзмэн ягаан;purple;36.png;3</item>
+        <item>улаан;red;37.png;3</item>
+        <item>цагаан;white;38.png;3</item>
+        <item>шар;yellow;39.png;3</item>
+        <item>унших;read;40.jpg;4</item>
+        <item>асуух;ask;41.jpg;4</item>
+        <item>зүсэх;cut;42.jpg;4</item>
+        <item>уух;drink;43.jpg;4</item>
+        <item>идэх;eat;44.jpg;4</item>
+        <item>өгөх;give;45.jpg;4</item>
+        <item>явах;go;46.jpg;4</item>
+        <item>инээх;laugh;47.jpg;4</item>
+        <item>харах;look;48.jpg;4</item>
+        <item>тоглох;play;49.jpg;4</item>
+        <item>урт;long;51.jpg;5</item>
+        <item>дүүрэн;full;52.jpg;5</item>
+        <item>халуун;hot;53.jpg;5</item>
+        <item>бага;little;54.jpg;5</item>
+        <item>богино;short;55.jpg;5</item>
+        <item>нэг;one;61.png;6</item>
+        <item>хоёр;two;62.png;6</item>
+        <item>гурав;three;63.png;6</item>
+        <item>ууртай;angry;70.jpg;7</item>
+        <item>гунигтай;sad;71.jpg;7</item>
+        <item>жаргалтай;happy;72.jpg;7</item>
+        -->
+    </string-array>
+</resources>

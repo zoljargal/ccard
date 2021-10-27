@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ComCard</string>
+    <string name="app_name_header">Communication Card</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Тохиргоо / Settings</string>
+    <string name="action_add_word">Үг нэмэх / Add word</string>
+    <string name="action_write_letter">Үсэг бичих / Write letters</string>
+
+    <string name="title_activity_play">Тоглуулах / Play</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="label_word_mng">Үг (Монгол)/ Word (Mongolian) *</string>
+    <string name="label_word_eng">Үг (Англи)/ Word (English)</string>
+    <string name="label_category">Ангилал / Category</string>
+
+    <string name="title_activity_add_word">Үг нэмэх / Add word</string>
+    <string name="title_activity_write_letter">Дохионы үсэг бичих / Write sign</string>
+
+    <string name="dialog_title_word_delete">Карт устгах / Delete card</string>
+    <string name="dialog_message_word_delete">Та картыг устгахдаа итгэлтэй байна уу? \n\nAre you sure to delete the card?</string>
+    <string name="dialog_message_cant_delete">Энэ карт заяамал учир та устгаж чадахгүй! \n\nYou can not delete builtin cards!</string>
+    <string name="action_sure">Тийм / Sure</string>
+    <string name="action_ok">Ойлголоо / Ok</string>
+    <string name="action_no">Үгүй / No</string>
+</resources>
